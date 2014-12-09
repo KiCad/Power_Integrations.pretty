@@ -3,10 +3,10 @@
   (descr "SDIP-10 Shrink 300mil 10pin Dual In Line Package")
   (tags "Power Integrations M Package")
   (fp_text reference SDIP-10C (at 0 0) (layer F.SilkS)
-    (effects (font (thickness 0.3048)))
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value VAL** (at 0 0) (layer F.SilkS) hide
-    (effects (font (thickness 0.3048)))
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -5.08 1.016) (end -5.08 3.302) (layer F.SilkS) (width 0.15))
   (fp_line (start -5.08 -3.302) (end -5.08 -1.016) (layer F.SilkS) (width 0.15))

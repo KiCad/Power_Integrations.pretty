@@ -3,10 +3,10 @@
   (descr "eSIP-7F Flat Package with Heatsink Tab")
   (tags "Power Integrations L Package")
   (fp_text reference eSIP-7F (at 0 -7.493) (layer F.SilkS)
-    (effects (font (thickness 0.3048)))
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value VAL** (at 0 -7.493) (layer F.SilkS) hide
-    (effects (font (thickness 0.3048)))
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -4.445 -4.191) (end 4.445 -4.191) (layer F.SilkS) (width 0.15))
   (fp_line (start 4.445 -4.191) (end 4.445 -11.049) (layer F.SilkS) (width 0.15))
