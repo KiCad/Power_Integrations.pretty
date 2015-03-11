@@ -2,10 +2,10 @@
   (at 0 0)
   (descr "Non Isolated JEDEC TO-220 Package")
   (tags "Power Integration YN Package")
-  (fp_text reference TO-220 (at 0 -4.318) (layer F.SilkS)
+  (fp_text reference REF** (at 0 -4.318) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0 -4.318) (layer F.SilkS) hide
+  (fp_text value TO-220 (at 0 -4.318) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 4.826 -1.651) (end 4.826 1.778) (layer F.SilkS) (width 0.15))
