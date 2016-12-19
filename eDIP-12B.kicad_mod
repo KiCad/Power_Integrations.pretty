@@ -1,6 +1,6 @@
-(module eDIP-12 (layer F.Cu)
+(module eDIP-12B (layer F.Cu)
   (at 0 0)
-  (descr "eDIP-12 Flat Package with Heatsink Tab")
+  (descr "eDIP-12B Flat Package with Heatsink Tab")
   (tags "Power Integrations V Package")
   (fp_text reference REF** (at 0 0) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
